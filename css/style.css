@@ -24,7 +24,7 @@ font-size:200%
   display: grid;
 
   /* 4. Give it 3 columns of equal size (1fr each) */
-  grid-template-columns: 150px 150px 150px;
+  grid-template-columns: 25% 25% 25%;
 
   /* 5. Set a g rid gap of 10px */
   grid-gap: 10px;
